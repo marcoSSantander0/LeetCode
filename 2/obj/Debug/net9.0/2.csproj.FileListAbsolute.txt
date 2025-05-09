@@ -1,0 +1,14 @@
+/home/zero/Desktop/LeetCode/2/bin/Debug/net9.0/2
+/home/zero/Desktop/LeetCode/2/bin/Debug/net9.0/2.deps.json
+/home/zero/Desktop/LeetCode/2/bin/Debug/net9.0/2.runtimeconfig.json
+/home/zero/Desktop/LeetCode/2/bin/Debug/net9.0/2.dll
+/home/zero/Desktop/LeetCode/2/bin/Debug/net9.0/2.pdb
+/home/zero/Desktop/LeetCode/2/obj/Debug/net9.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/home/zero/Desktop/LeetCode/2/obj/Debug/net9.0/2.AssemblyInfoInputs.cache
+/home/zero/Desktop/LeetCode/2/obj/Debug/net9.0/2.AssemblyInfo.cs
+/home/zero/Desktop/LeetCode/2/obj/Debug/net9.0/2.csproj.CoreCompileInputs.cache
+/home/zero/Desktop/LeetCode/2/obj/Debug/net9.0/2.dll
+/home/zero/Desktop/LeetCode/2/obj/Debug/net9.0/refint/2.dll
+/home/zero/Desktop/LeetCode/2/obj/Debug/net9.0/2.pdb
+/home/zero/Desktop/LeetCode/2/obj/Debug/net9.0/2.genruntimeconfig.cache
+/home/zero/Desktop/LeetCode/2/obj/Debug/net9.0/ref/2.dll
